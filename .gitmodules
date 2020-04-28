@@ -1,0 +1,6 @@
+[submodule "grove.py"]
+	path = grove.py
+	url = https://github.com/Seeed-Studio/grove.py
+[submodule "Grove_Ultrasonic_Ranger"]
+	path = Grove_Ultrasonic_Ranger
+	url = https://github.com/Seeed-Studio/Grove_Ultrasonic_Ranger.git
