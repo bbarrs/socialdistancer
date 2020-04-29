@@ -4,3 +4,6 @@
 [submodule "Grove_Ultrasonic_Ranger"]
 	path = Grove_Ultrasonic_Ranger
 	url = https://github.com/Seeed-Studio/Grove_Ultrasonic_Ranger.git
+[submodule "Grove-RaspberryPi"]
+	path = Grove-RaspberryPi
+	url = https://github.com/bbarrs/Grove-RaspberryPi.git
